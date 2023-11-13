@@ -17,7 +17,11 @@ jobs:
       with:
         src: github/xgfd3
         dst: gitee/xgfd3
+        white_list: "sync2gitee"
+        static_list: "sync2gitee"
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         mappings: ".github=>github"
+        cache_path: "./cache"
         force_update: true
+        account_type: org
