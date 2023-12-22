@@ -8,5 +8,5 @@ sed -ie 's/Yikun/xgfd3/g' README.md
 git status
 git add README.md
 git commit -m 'sync >> Update REAMDE'
-git push
+git push gitee
 cd -
