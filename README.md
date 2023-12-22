@@ -6,7 +6,7 @@
 
 
 
-基于 action <https://github.com/Yikun/hub-mirror-action> 实现。
+基于 action <https://github.com/xg3/hub-mirror-action> 实现。
 
 首先你需要通过搜索了解下什么是 GitHub Action，它的配置文件在仓库的 `.github/workflows` 下面。然后 Fork 本仓库，或者自己新建一个仓库（但需要自己添加 [Action 配置文件](https://github.com/ShixiangWang/sync2gitee/blob/master/.github/workflows/auto-sync.yml)）。
 
@@ -43,7 +43,7 @@
 
 你还可以根据自己的实际情况修改配置，以下是有用的参考：
 
-- <https://github.com/Yikun/hub-mirror-action>
+- <https://github.com/xgfd3/hub-mirror-action>
 - <https://docs.github.com/en/actions>
 
 - [crontab的语法规则格式（每分钟、每小时、每天、每周、每月、每年定时执行 规则）](https://blog.csdn.net/xinyflove/article/details/83178876)
