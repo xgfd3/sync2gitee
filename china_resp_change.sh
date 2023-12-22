@@ -1,4 +1,6 @@
 #!/bin/bash
+git config --global user.email "sync2gitee@example.com"
+git config --global user.name "sync2gitee"
 
 cd ./cache/sync2gitee
 git remote -v
