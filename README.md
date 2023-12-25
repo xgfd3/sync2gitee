@@ -6,7 +6,7 @@
 
 
 
-基于 action <https://github.com/Yikun/hub-mirror-action> 实现。
+基于 action <https://github.com/Yikunnnn/hub-mirror-action> 实现。
 
 首先你需要通过搜索了解下什么是 GitHub Action，它的配置文件在仓库的 `.github/workflows` 下面。然后 Fork 本仓库，或者自己新建一个仓库（但需要自己添加 [Action 配置文件](https://github.com/ShixiangWang/sync2gitee/blob/master/.github/workflows/auto-sync.yml)）。
 
