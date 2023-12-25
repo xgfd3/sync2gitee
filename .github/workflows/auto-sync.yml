@@ -22,3 +22,4 @@ jobs:
         cache_path: "./cache"
         force_update: true
         account_type: org
+        shell_path: ./china_resp_change.sh
